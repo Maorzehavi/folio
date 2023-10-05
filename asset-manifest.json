@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Maorzehavi/folio/static/css/main.77ac71d6.css",
+    "main.js": "/Maorzehavi/folio/static/js/main.c0d19134.js",
+    "static/js/787.a71561b8.chunk.js": "/Maorzehavi/folio/static/js/787.a71561b8.chunk.js",
+    "index.html": "/Maorzehavi/folio/index.html",
+    "main.77ac71d6.css.map": "/Maorzehavi/folio/static/css/main.77ac71d6.css.map",
+    "main.c0d19134.js.map": "/Maorzehavi/folio/static/js/main.c0d19134.js.map",
+    "787.a71561b8.chunk.js.map": "/Maorzehavi/folio/static/js/787.a71561b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77ac71d6.css",
+    "static/js/main.c0d19134.js"
+  ]
+}
